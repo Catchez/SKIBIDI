@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1746373591 source:c:\users\admin\desktop\skibidi\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+	"config.h"
+	"init.h"
+	"texture.h"
+
+1746319315 c:\users\admin\desktop\skibidi\game.h
+
+1746319315 source:c:\users\admin\desktop\skibidi\utils.cpp
+	"utils.h"
+	<SDL_image.h>
+	<iostream>
+
+1746319315 c:\users\admin\desktop\skibidi\utils.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1746343776 c:\users\admin\desktop\skibidi\config.h
+
+1746373473 c:\users\admin\desktop\skibidi\init.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1746373591 c:\users\admin\desktop\skibidi\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+
+1746343776 source:c:\users\admin\desktop\skibidi\texture.cpp
+	"texture.h"
+	<iostream>
+
+1746376376 source:c:\users\admin\desktop\skibidi\init.cpp
+	"init.h"
+	"config.h"
+
